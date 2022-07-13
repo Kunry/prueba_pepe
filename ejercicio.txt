@@ -7,3 +7,6 @@ https://github.com/AccionaXIronhack/Learning-Units/blob/main/Week1/Day3/3.3.1%20
 
 Loops (PP): 
 https://github.com/AccionaXIronhack/Learning-Units/blob/main/Week1/Day3/3.3.2%20-%20%5BCFU%5D%20-%20Loops.md
+
+Function (DE):
+https://github.com/ironhack-labs/lab-javascript-functions-and-arrays
